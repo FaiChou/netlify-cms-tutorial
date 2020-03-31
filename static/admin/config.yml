@@ -5,7 +5,7 @@ backend:
 media_folder: static/assets
 public_folder: /assets
 site_url: https://keen-murdock-512d1f.netlify.com
-logo_url: https://raw.githubusercontent.com/FaiChou/netlify-cms-tutorial/master/static/favicon.ico
+logo_url: https://raw.githubusercontent.com/FaiChou/netlify-cms-tutorial/master/static/logo/shape-letter-horizontal-800.png
 
 collections:
   - name: blog
