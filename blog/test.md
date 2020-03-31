@@ -5,4 +5,4 @@ title: test
 ---
 test
 
-![TaoPaipai](TaoPaipai.jpeg)
+![TaoPaipai](/assets/taopaipai.jpeg)
